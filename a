@@ -1,0 +1,30 @@
+Help on module ex25:
+
+NNAAMMEE
+    ex25
+
+FFUUNNCCTTIIOONNSS
+    bbrreeaakk__wwoorrddss(stuff)
+        This function will break up words for us.
+    
+    pprriinntt__ffiirrsstt__aanndd__llaasstt(sentence)
+        Prints the first and last words of the sentence.
+    
+    pprriinntt__ffiirrsstt__aanndd__llaasstt__ssoorrtteedd(sentence)
+        Sorts the words then prints the first and last one.
+    
+    pprriinntt__ffiirrsstt__wwoorrdd(words)
+        Prints the first word after popping it off.
+    
+    pprriinntt__llaasstt__wwoorrdd(words)
+        "Print the last word after popping it off.
+    
+    ssoorrtt__sseenntteennccee(sentence)
+        Takes in a full sentence and returns the sorted words.
+    
+    ssoorrtt__wwoorrddss(words)
+        Sorts the words.
+
+FFIILLEE
+    /c/Users/chris/OneDrive/Documents/Programming/Python/lpthw/ex25.py
+
