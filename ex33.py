@@ -13,4 +13,4 @@ while i < 6:
 print("The numbers: ")
 
 for num in numbers:
-    print(num)
+    print(num)du
